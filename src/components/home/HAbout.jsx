@@ -9,7 +9,7 @@ const HAbout = () => {
   return (
    
     <div className="container">
-    <Heading subtitle='our courses' title='explore our popular online courses' />
+    <Heading subtitle='our courses' title='explore our popular courses' />
     
  </div>
 
