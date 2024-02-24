@@ -67,14 +67,14 @@ export const coursesCard = [
   
   {
     id: 4,
-    cover: "../images/courses/c4.png",
+    cover: "https://www.shutterstock.com/image-vector/airplane-stream-jet-illustration-logo-260nw-443559268.jpg",
     coursesName: "Aviation civile",
     desc: "This course provides an introduction to civil aviation, covering topics such as aviation regulations, flight operations, aircraft systems, and air traffic management."
 },
 
   {
     id: 5,
-    cover: "../images/courses/c5.png",
+    cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbwok3aZ4X_rpLO814bBPf_nLDTDuv1BBUlWNdBF3VAbsZvZ6wAwSDbmNh2ZiIi0Puc-0&usqp=CAU",
     coursesName: "Commercial et Gestion ",
     desc: "This course focuses on commercial and management skills, including marketing, sales, finance, human resources, and business operations."
   },
@@ -86,7 +86,7 @@ export const coursesCard = [
   },
   {
     id: 7,
-    cover: "../images/courses/c7.png",
+    cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLRi54De0jVFCHawbvQQ_njvO4ow63jC9MWA&usqp=CAU",
     coursesName: "Vétérinaire et Agronomie",
     desc: "This course explores veterinary science and agronomy, covering topics such as animal health, nutrition, breeding, crop production, and soil management."
   },
