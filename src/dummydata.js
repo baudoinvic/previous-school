@@ -88,35 +88,9 @@ export const coursesCard = [
     id: 7,
     cover: "../images/courses/c7.png",
     coursesName: "Vétérinaire et Agronomie",
+    desc: "This course explores veterinary science and agronomy, covering topics such as animal health, nutrition, breeding, crop production, and soil management."
   },
-  // {
-  //   id: 8,
-  //   cover: "../images/courses/c8.png",
-  //   coursesName: "Introducing to with JAVA",
-  //   courTeacher: [
-  //     {
-  //       dcover: "./images/back.webp",
-  //       name: "by Petter",
-  //       totalTime: "80 lectures (200 hrs)",
-  //     },
-  //   ],
-  //   priceAll: "$200 All Course",
-  //   pricePer: "$40 per month",
-  // },
-  // {
-  //   id: 9,
-  //   cover: "../images/courses/c9.png",
-  //   coursesName: "Introducing to with HTML / CSS / JAVASCRIPT",
-  //   courTeacher: [
-  //     {
-  //       dcover: "./images/back.webp",
-  //       name: "by Petter",
-  //       totalTime: "50 lectures (50 hrs)",
-  //     },
-  //   ],
-  //   priceAll: "$20 All Course",
-  //   pricePer: "$3 per month",
-  // },
+  
 ]
 export const online = [
   {
