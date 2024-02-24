@@ -3,6 +3,7 @@ import Heading from "../common/heading/Heading"
 import "./about.css"
 import { homeAbout } from "../../dummydata"
 import Awrapper from "./Awrapper"
+import CoursesCard from "../allcourses/CoursesCard"
 
 const AboutCard = () => {
   return (
@@ -32,6 +33,7 @@ const AboutCard = () => {
           </div>
         </div>
       </section>
+       <CoursesCard />
       <Awrapper />
     </>
   )

@@ -1,11 +1,16 @@
 import React from "react"
 import "./courses.css"
 import { coursesCard } from "../../dummydata"
+import Heading from "../common/heading/Heading"
 
 const CoursesCard = () => {
   return (
     <>
       <section className='coursesCard'>
+      <div className="container">
+    <Heading subtitle='our courses' title='explore our popular online courses' />
+    
+ </div>
         <div className='container grid2'>
           {coursesCard.map((val) => (
             <div className='items'>
@@ -44,12 +49,8 @@ const CoursesCard = () => {
 
                 </div>
               </div>
-              {/* <div className='price'>
-                <h3>
-                  {val.priceAll} / {val.pricePer}
-                </h3>
-              </div> */}
-              <button className='outline-btn'>ENROLL NOW !</button>
+             
+              <button className='outline-btn'>ENROLL NOW </button>
             </div>
           ))}
         </div>
