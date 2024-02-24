@@ -17,6 +17,7 @@ const CoursesCard = () => {
                 </div>
                 <div className='text'>
                   <h1>{val.coursesName}</h1>
+                  <p>{val.desc}</p> 
                   <div className='rate'>
                     <i className='fa fa-star'></i>
                     <i className='fa fa-star'></i>
@@ -43,11 +44,11 @@ const CoursesCard = () => {
 
                 </div>
               </div>
-              <div className='price'>
+              {/* <div className='price'>
                 <h3>
                   {val.priceAll} / {val.pricePer}
                 </h3>
-              </div>
+              </div> */}
               <button className='outline-btn'>ENROLL NOW !</button>
             </div>
           ))}

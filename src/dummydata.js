@@ -48,105 +48,75 @@ export const coursesCard = [
     id: 1,
     cover: "../images/courses/c1.png",
     coursesName: "Électronique",
+    desc: "This is the electronics course. It covers topics such as circuit design, electronic components, and circuit analysis."
   
   },
   {
     id: 2,
     cover: "../images/courses/c2.png",
-    coursesName: "Électricité générale ",
-    
-  },
+    coursesName: "Électricité générale",
+    desc: "This course covers fundamental principles and applications of general electricity, including circuits, voltage, current, resistance, and power."
+},
+
   {
     id: 3,
     cover: "../images/courses/c3.png",
     coursesName: "Construction",
-    
+    desc: "This course covers the principles and techniques of construction, including building materials, structural systems, construction methods, and project management."
   },
   
   {
     id: 4,
     cover: "../images/courses/c4.png",
-    coursesName: "Introducing to Programming with WordPress",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Prabin Thapa Mager",
-        totalTime: "20 lectures (20 hrs)",
-      },
-    ],
-    priceAll: "$30 All Course",
-    pricePer: "$3 per month",
-  },
+    coursesName: "Aviation civile",
+    desc: "This course provides an introduction to civil aviation, covering topics such as aviation regulations, flight operations, aircraft systems, and air traffic management."
+},
+
   {
     id: 5,
     cover: "../images/courses/c5.png",
-    coursesName: "Introducing to Programming with ReactJS",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Sunil Bishowkaram",
-        totalTime: "100 lectures (150 hrs)",
-      },
-    ],
-    priceAll: "$300 All Course",
-    pricePer: "$30 per month",
+    coursesName: "Commercial et Gestion ",
+    desc: "This course focuses on commercial and management skills, including marketing, sales, finance, human resources, and business operations."
   },
   {
     id: 6,
     cover: "../images/courses/c6.png",
-    coursesName: "Learn Frontend Programming Language",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Sunil Bishowkaram",
-        totalTime: "200 lectures (300 hrs)",
-      },
-    ],
-    priceAll: "$500 All Course",
-    pricePer: "$80 per month",
+    coursesName: "Mécanique",
+    desc: "This course covers principles of mechanics, including statics, dynamics, kinematics, and mechanical systems, and their applications in engineering and technology."
   },
   {
     id: 7,
     cover: "../images/courses/c7.png",
-    coursesName: "Introducing to with HTML / CSS",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Price",
-        totalTime: "20 lectures (50 hrs)",
-      },
-    ],
-    priceAll: "$20 All Course",
-    pricePer: "$2 per month",
+    coursesName: "Vétérinaire et Agronomie",
   },
-  {
-    id: 8,
-    cover: "../images/courses/c8.png",
-    coursesName: "Introducing to with JAVA",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Petter",
-        totalTime: "80 lectures (200 hrs)",
-      },
-    ],
-    priceAll: "$200 All Course",
-    pricePer: "$40 per month",
-  },
-  {
-    id: 9,
-    cover: "../images/courses/c9.png",
-    coursesName: "Introducing to with HTML / CSS / JAVASCRIPT",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Petter",
-        totalTime: "50 lectures (50 hrs)",
-      },
-    ],
-    priceAll: "$20 All Course",
-    pricePer: "$3 per month",
-  },
+  // {
+  //   id: 8,
+  //   cover: "../images/courses/c8.png",
+  //   coursesName: "Introducing to with JAVA",
+  //   courTeacher: [
+  //     {
+  //       dcover: "./images/back.webp",
+  //       name: "by Petter",
+  //       totalTime: "80 lectures (200 hrs)",
+  //     },
+  //   ],
+  //   priceAll: "$200 All Course",
+  //   pricePer: "$40 per month",
+  // },
+  // {
+  //   id: 9,
+  //   cover: "../images/courses/c9.png",
+  //   coursesName: "Introducing to with HTML / CSS / JAVASCRIPT",
+  //   courTeacher: [
+  //     {
+  //       dcover: "./images/back.webp",
+  //       name: "by Petter",
+  //       totalTime: "50 lectures (50 hrs)",
+  //     },
+  //   ],
+  //   priceAll: "$20 All Course",
+  //   pricePer: "$3 per month",
+  // },
 ]
 export const online = [
   {
@@ -369,25 +339,25 @@ export const blog = [
   },
 ]
 export const testimonal = [
-  {
-    id: 1,
-    name: "ROGER SCOTT",
-    post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    cover: "./images/testo/t1.webp",
-  },
-  {
-    id: 2,
-    name: "ROGER SCOTT",
-    post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    cover: "./images/testo/t2.webp",
-  },
-  {
-    id: 3,
-    name: "ROGER SCOTT",
-    post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
-    cover: "./images/testo/t3.webp",
-  },
+  // {
+  //   id: 1,
+  //   name: "ROGER SCOTT",
+  //   post: "MARKETING MANAGER",
+  //   desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+  //   cover: "./images/testo/t1.webp",
+  // },
+  // {
+  //   id: 2,
+  //   name: "ROGER SCOTT",
+  //   post: "MARKETING MANAGER",
+  //   desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+  //   cover: "./images/testo/t2.webp",
+  // },
+  // {
+  //   id: 3,
+  //   name: "ROGER SCOTT",
+  //   post: "MARKETING MANAGER",
+  //   desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+  //   cover: "./images/testo/t3.webp",
+  // },
 ]

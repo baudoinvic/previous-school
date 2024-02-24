@@ -41,6 +41,7 @@ const HAbout = () => {
                 </div>
                 <div className='para'>
                   <h4>{details.name}</h4>
+                  
                 </div>
               </div>
               <span>{details.totalTime}</span>
