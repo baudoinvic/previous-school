@@ -45,7 +45,7 @@ export const coursesCard = [
   {
     id: 1,
     cover: "../images/courses/c1.png",
-    coursesName: "Introducing to Software Engineering",
+    coursesName: "Électronique",
     courTeacher: [
       {
         dcover: "./images/back.webp",
@@ -59,7 +59,7 @@ export const coursesCard = [
   {
     id: 2,
     cover: "../images/courses/c2.png",
-    coursesName: "Enhancing Adobe Photoshop CC 2020 Skills",
+    coursesName: "Électricité générale ",
     courTeacher: [
       {
         dcover: "./images/back.webp",
@@ -73,7 +73,7 @@ export const coursesCard = [
   {
     id: 3,
     cover: "../images/courses/c3.png",
-    coursesName: "HTML, CSS, and Javascript for Web Developers",
+    coursesName: "Construction",
     courTeacher: [
       {
         dcover: "./images/back.webp",
