@@ -2,44 +2,44 @@ export const homeAbout = [
   {
     id: 1,
     cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
-    title: "Online Courses",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    title: "Educational Offerings",
+    desc: "Discover the rich tapestry of learning experiences waiting for you within our institution.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/diploma.png",
-    title: "Earn A Certificates",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    title: "Academic Pathways",
+    desc: "Embark on a transformative journey through our Academic Pathways, where students are empowered to explore diverse subjects.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/athlete.png",
-    title: "Learn with Expert",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    title: "Proficient Learning Initiatives",
+    desc: "Experience the transformative power of expert-led education, shaping minds and futures.",
   },
   
 ]
 export const awrapper = [
   {
     cover: "https://img.icons8.com/external-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto/80/ffffff/external-graduation-education-yogi-aprelliyanto-basic-outline-yogi-aprelliyanto.png",
-    data: "3,000",
-    title: "SUCCESS STORIES",
+    data: "30",
+    title: "NUMBER OF TEACHERS",
   },
 
   {
     cover: "https://img.icons8.com/ios/80/ffffff/athlete.png",
-    data: "320",
-    title: "TRUSTED TUTORS",
+    data: "450",
+    title: "number of pupils",
   },
   {
     cover: "https://img.icons8.com/external-outline-icons-maxicons/80/ffffff/external-calender-insurance-outline-outline-icons-maxicons.png",
-    data: "1,000",
-    title: "SCHEDULES",
+    data: "300",
+    title: "STUDENTS ENROLLED",
   },
   {
     cover: "https://img.icons8.com/ios/80/ffffff/macbook-idea--v3.png",
-    data: "587",
-    title: "COURSES",
+    data: "8",
+    title: "OPTIONS",
   },
 ]
 
