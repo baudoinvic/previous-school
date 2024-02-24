@@ -17,6 +17,7 @@ export const homeAbout = [
     title: "Learn with Expert",
     desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
   },
+  
 ]
 export const awrapper = [
   {
@@ -41,49 +42,27 @@ export const awrapper = [
     title: "COURSES",
   },
 ]
+
 export const coursesCard = [
   {
     id: 1,
     cover: "../images/courses/c1.png",
     coursesName: "Électronique",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by John Smith",
-        totalTime: "50 lectures (190 hrs)",
-      },
-    ],
-    priceAll: "$100 All Course",
-    pricePer: "$15 per month",
+  
   },
   {
     id: 2,
     cover: "../images/courses/c2.png",
     coursesName: "Électricité générale ",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Ram Gurung",
-        totalTime: "30 lectures (125 hrs)",
-      },
-    ],
-    priceAll: "$200 All Course",
-    pricePer: "$25 per month",
+    
   },
   {
     id: 3,
     cover: "../images/courses/c3.png",
     coursesName: "Construction",
-    courTeacher: [
-      {
-        dcover: "./images/back.webp",
-        name: "by Saroj Nepal",
-        totalTime: "50 lectures (50 hrs)",
-      },
-    ],
-    priceAll: "$50 All Course",
-    pricePer: "$5 per month",
+    
   },
+  
   {
     id: 4,
     cover: "../images/courses/c4.png",
