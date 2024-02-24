@@ -10,7 +10,7 @@ const AboutCard = () => {
       <section className='aboutHome'>
         <div className='container flexSB'>
           <div className='left row'>
-            <img src='./images/about.webp' alt='' />
+            <img src='https://pbs.twimg.com/media/F-ZOGvhWgAEm9J2?format=jpg&name=4096x4096' alt='' />
           </div>
           <div className='right row'>
             <Heading subtitle='EXPAND YOUR KNOWLEDGE' title='Exploring the Benefits of Technological Competence' />

@@ -1,5 +1,6 @@
 import React, { useState } from "react"
-import { Link } from "react-router-dom"
+import { Link } from "react-router-dom";
+
 import Head from "./Head"
 import "./header.css"
 
@@ -16,22 +17,22 @@ const Header = () => {
               <Link to='/'>Home</Link>
             </li>
             <li>
-              <Link to='/courses'>All Courses</Link>
+              <Link to="/courses">All Courses</Link>
             </li>
             <li>
-              <Link to='/about'>About</Link>
+              <Link to="/about">About</Link>
             </li>
             <li>
-              <Link to='/team'>Team</Link>
+              <Link to="/team">Team</Link>
             </li>
             <li>
-              <Link to='/pricing'>Pricing</Link>
+              <Link to="/pricing">Pricing</Link>
             </li>
             <li>
-              <Link to='/journal'>Journal</Link>
+              <Link to="/journal">Journal</Link>
             </li>
             <li>
-              <Link to='/contact'>Contact</Link>
+              <Link to="/contact">Contact</Link>
             </li>
           </ul>
           <div className='start'>

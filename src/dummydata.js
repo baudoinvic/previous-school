@@ -320,7 +320,7 @@ export const blog = [
     com: "3 COMMENTS ",
     title: "Build your career in construction",
     desc: "Discover the power to build your dreams in the dynamic world of construction careers.",
-    cover: "https://www.bu.edu/files/2023/03/Help-Kids-Become-Better-Readers-iStock-512994084-feat.jpg",
+    cover: "https://res.cloudinary.com/drxlhqaql/image/upload/v1667528703/site_data/unesco-atlas.central-coast-website-development.com.au/20221104_132452_98f022ef_AdobeStock_245210180.jpg",
   },
   {
     id: 2,

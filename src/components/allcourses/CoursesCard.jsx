@@ -26,20 +26,21 @@ const CoursesCard = () => {
                     <label htmlFor=''>(5.0)</label>
                   </div>
                   <div className='details'>
-                    {val.courTeacher.map((details) => (
-                      <>
-                        <div className='box'>
-                          <div className='dimg'>
-                            <img src={details.dcover} alt='' />
-                          </div>
-                          <div className='para'>
-                            <h4>{details.name}</h4>
-                          </div>
-                        </div>
-                        <span>{details.totalTime}</span>
-                      </>
-                    ))}
-                  </div>
+               {val.courTeacher && val.courTeacher.map((details) => (
+              <React.Fragment key={details.name}>
+             <div className='box'>
+           <div className='dimg'>
+          <img src={details.dcover} alt='' />
+             </div>
+            <div className='para'>
+             <h4>{details.name}</h4>
+           </div>
+           </div>
+         <span>{details.totalTime}</span>
+    </React.Fragment>
+  ))}
+</div>
+
                 </div>
               </div>
               <div className='price'>
