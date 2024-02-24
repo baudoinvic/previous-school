@@ -29,7 +29,7 @@ const CoursesCard = () => {
                     <i className='fa fa-star'></i>
                     <i className='fa fa-star'></i>
                     <i className='fa fa-star'></i>
-                    <label htmlFor=''>(5.0)</label>
+                    {/* <label htmlFor=''>(5.0)</label> */}
                   </div>
                   <div className='details'>
                {val.courTeacher && val.courTeacher.map((details) => (
@@ -50,7 +50,7 @@ const CoursesCard = () => {
                 </div>
               </div>
              
-              <button className='outline-btn'>ENROLL NOW </button>
+              {/* <button className='outline-btn'>ENROLL NOW </button> */}
             </div>
           ))}
         </div>

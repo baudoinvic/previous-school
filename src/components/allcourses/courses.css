@@ -3,8 +3,9 @@
 }
 .coursesCard .items {
   background-color: #fff;
-  padding: 30px;
+  padding: 15px;
   text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 .coursesCard .img {
   width: 80px;
