@@ -9,7 +9,7 @@ const CoursesCard = () => {
       <section className="coursesCard">
         <div className="container">
           <Heading
-            subtitle="our courses"
+            subtitle="Our Course Offerings"
             title="Explore Our Range of Courses"
           />
         </div>
