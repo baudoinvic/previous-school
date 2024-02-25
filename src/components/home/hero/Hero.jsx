@@ -17,10 +17,10 @@ const Hero = () => {
               comfortable
             </p>
             <div className="flex mt-5">
-              <button className="primary-btn mr-4 py-2 px-4">
+              <button className="primary-btn mr-4 py-4 px-4">
                 GET STARTED NOW <i className="fa fa-long-arrow-alt-right"></i>
               </button>
-              <button className="bg-white text-teal-500 border border-teal-500 py-2 px-4 rounded">
+              <button className="bg-white text-teal-500 border border-teal-500 py-4 px-4 rounded">
                 VIEW COURSE <i className="fa fa-long-arrow-alt-right"></i>
               </button>
             </div>
