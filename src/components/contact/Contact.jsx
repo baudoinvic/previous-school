@@ -46,7 +46,7 @@ const Contact = () => {
             </form>
 
             <h3>Follow us here</h3>
-            <span>FACEBOOK TWITTER INSTAGRAM DRIBBBLE</span>
+            <span>FACEBOOK TWITTER INSTAGRAM </span>
           </div>
         </div>
       </section>
