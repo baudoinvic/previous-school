@@ -48,50 +48,51 @@ export const coursesCard = [
     id: 1,
     cover: "../images/courses/c1.png",
     coursesName: "Électronique",
-    desc: "This is the electronics course. It covers topics such as circuit design, electronic components, and circuit analysis."
-  
+    desc: "This is the electronics course. It covers topics such as circuit design, electronic components, and circuit analysis.",
   },
   {
     id: 2,
     cover: "../images/courses/c2.png",
     coursesName: "Électricité générale",
-    desc: "This course covers fundamental principles and applications of general electricity, including circuits, voltage, current, resistance, and power."
-},
+    desc: "This course covers fundamental principles and applications of general electricity, including circuits, voltage, current, resistance, and power.",
+  },
 
   {
     id: 3,
     cover: "../images/courses/c3.png",
     coursesName: "Construction",
-    desc: "This course covers the principles and techniques of construction, including building materials, structural systems, construction methods, and project management."
+    desc: "This course covers the principles and techniques of construction, including building materials, structural systems, construction methods, and project management.",
   },
-  
+
   {
     id: 4,
-    cover: "https://www.shutterstock.com/image-vector/airplane-stream-jet-illustration-logo-260nw-443559268.jpg",
+    cover:
+      "https://www.shutterstock.com/image-vector/airplane-stream-jet-illustration-logo-260nw-443559268.jpg",
     coursesName: "Aviation civile",
-    desc: "This course provides an introduction to civil aviation, covering topics such as aviation regulations, flight operations, aircraft systems, and air traffic management."
-},
+    desc: "This course provides an introduction to civil aviation, covering topics such as aviation regulations, flight operations, aircraft systems, and air traffic management.",
+  },
 
   {
     id: 5,
-    cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbwok3aZ4X_rpLO814bBPf_nLDTDuv1BBUlWNdBF3VAbsZvZ6wAwSDbmNh2ZiIi0Puc-0&usqp=CAU",
+    cover:
+      "https://media.istockphoto.com/id/1047699430/photo/overhead-view-on-business-people-around-desk.jpg?s=612x612&w=0&k=20&c=mw7GAXTEOAQ36taGxzo8DPE3CLOpG7Zu466FCxeQJL0=",
     coursesName: "Commercial et Gestion ",
-    desc: "This course focuses on commercial and management skills, including marketing, sales, finance, human resources, and business operations."
+    desc: "This course focuses on commercial and management skills, including marketing, sales, finance, human resources, and business operations.",
   },
   {
     id: 6,
     cover: "../images/courses/c6.png",
     coursesName: "Mécanique",
-    desc: "This course covers principles of mechanics, including statics, dynamics, kinematics, and mechanical systems, and their applications in engineering and technology."
+    desc: "This course covers principles of mechanics, including statics, dynamics, kinematics, and mechanical systems, and their applications in engineering and technology.",
   },
   {
     id: 7,
-    cover: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLRi54De0jVFCHawbvQQ_njvO4ow63jC9MWA&usqp=CAU",
+    cover:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLRi54De0jVFCHawbvQQ_njvO4ow63jC9MWA&usqp=CAU",
     coursesName: "Vétérinaire et Agronomie",
-    desc: "This course explores veterinary science and agronomy, covering topics such as animal health, nutrition, breeding, crop production, and soil management."
+    desc: "This course explores veterinary science and agronomy, covering topics such as animal health, nutrition, breeding, crop production, and soil management.",
   },
-  
-]
+];
 export const online = [
   {
     cover: "./images/courses/online/o1.png",
@@ -262,9 +263,10 @@ export const blog = [
     type: "Students",
     date: "JAN. 18, 2024",
     com: "3 COMMENTS ",
-    title: "Build your career in construction",
-    desc: "Discover the power to build your dreams in the dynamic world of construction careers.",
-    cover: "https://res.cloudinary.com/drxlhqaql/image/upload/v1667528703/site_data/unesco-atlas.central-coast-website-development.com.au/20221104_132452_98f022ef_AdobeStock_245210180.jpg",
+    title: "Build your career in general electricity",
+    desc: "Discover the power to build your dreams in the dynamic world of general electricity careers.",
+    cover:
+      "https://media.istockphoto.com/id/1326356989/photo/scientist-african-american-woman-working-in-laboratory-with-electronic-instruments.jpg?s=612x612&w=0&k=20&c=iWRoOgPoESyWNLRNAhaez7A8X7L8_UC56I2F9fNaOtg=",
   },
   {
     id: 2,
@@ -273,7 +275,8 @@ export const blog = [
     com: "5 COMMENTS ",
     title: "Build your Dream Career in civil aviation",
     desc: "Navigate your way to success in civil aviation and make your dreams of flight a reality.",
-    cover: "https://kappanonline.org/wp-content/uploads/2018/11/PDK_100_4_Ferguson_Art_554x350px.jpg",
+    cover:
+      "https://media.istockphoto.com/id/503893294/photo/excited-elementary-students-learning-to-use-drone-in-class.jpg?s=612x612&w=0&k=20&c=sVquCywhgixTrfCYlLP8FY-68L8x_8HAfSeBB6QKSDA=",
   },
   {
     id: 3,
@@ -282,7 +285,8 @@ export const blog = [
     com: "7 COMMENTS ",
     title: "Build your Dream  Career in electronics",
     desc: "Electrify your career aspirations with opportunities in the dynamic realm of electronics.",
-    cover: "https://studentreading.net/images/readers1.jpg",
+    cover:
+      "https://media.istockphoto.com/id/999096644/photo/working-on-an-engineering-group-project.jpg?s=612x612&w=0&k=20&c=JEPhruE2TnBWmaxHZ3gBigZQOyLLruOeNNW8Phicdfk=",
   },
   {
     id: 4,
@@ -291,7 +295,8 @@ export const blog = [
     com: "3 COMMENTS ",
     title: "Build your Dream Career in Commercial et Gestion",
     desc: "Discover the path to building your dream career in commercial management, where innovation meets strategy.",
-    cover: "https://img.freepik.com/premium-photo/portrait-young-businessman-with-disability-participating-meeting-with-managers_236854-41118.jpg",
+    cover:
+      "https://media.istockphoto.com/id/1047699430/photo/overhead-view-on-business-people-around-desk.jpg?s=612x612&w=0&k=20&c=mw7GAXTEOAQ36taGxzo8DPE3CLOpG7Zu466FCxeQJL0=",
   },
   {
     id: 5,
@@ -300,7 +305,8 @@ export const blog = [
     com: "3 COMMENTS ",
     title: "Build your career and gain more skills in Mechanique",
     desc: "Embark on a transformative journey to excel in the dynamic realm of mechanics.",
-    cover: "https://exploreengineering.ca/sites/default/files/2020-02/NEM_mechanical.jpg",
+    cover:
+      "https://media.istockphoto.com/id/828329712/photo/preteen-student-completes-wiring-on-robotics-project.jpg?s=612x612&w=0&k=20&c=XtOIHGWf___PcxsT92Gs2wOScXQvOglVEhYV2yWXpss=",
   },
   {
     id: 6,
@@ -309,9 +315,10 @@ export const blog = [
     com: "7 COMMENTS ",
     title: "Build your career and exapand your knowlodge in construction",
     desc: "transformative journey to build a rewarding career and expand your horizons in the field of construction.",
-    cover: "../images/blog/b6.webp",
+    cover:
+      "https://media.istockphoto.com/id/1204069376/photo/student-making-a-piece-of-furniture-in-class-and-drilling-wood.jpg?s=612x612&w=0&k=20&c=td0frKpYC9h0r16QYecfIkJtA-Pk87ef8Uj8qHUeZ18=",
   },
-]
+];
 export const testimonal = [
   // {
   //   id: 1,
