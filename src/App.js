@@ -1,6 +1,6 @@
 import "./App.css";
 import Header from "./components/common/header/Header";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route,Link } from "react-router-dom";
 import About from "./components/about/About";
 import CourseHome from "./components/allcourses/CourseHome";
 import Team from "./components/team/Team";
