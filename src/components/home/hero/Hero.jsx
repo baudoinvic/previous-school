@@ -18,9 +18,12 @@ const Hero = () => {
               comfortable
             </p>
             <div className="flex mt-5">
-              <button className="primary-btn mr-4 py-4 px-4">
-                GET STARTED NOW <i className="fa fa-long-arrow-alt-right"></i>
-              </button>
+              <Link to="">
+                <button className="primary-btn mr-4 py-4 px-4">
+                  GET STARTED NOW <i className="fa fa-long-arrow-alt-right"></i>
+                </button>
+              </Link>
+
               <Link to="/courses">
                 <button className="bg-white text-teal-500 border border-teal-500 py-4 px-4 rounded cursor-pointer">
                   VIEW COURSE <i className="fa fa-long-arrow-alt-right"></i>
