@@ -8,7 +8,7 @@ function Event() {
         <div className="flex flex-col items-center">
           <div className="max-w-md w-full bg-white shadow-md rounded-lg overflow-hidden mb-4">
             <div className="p-4">
-              <h2 className="text-xl font-bold mb-2">Science Faire</h2>
+              <h2 className="text-xl font-bold mb-2">Science Fair</h2>
               <p className="text-gray-700 mb-2">
                 A showcase of innovative science projects by students.
               </p>
